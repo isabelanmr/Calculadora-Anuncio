@@ -35,4 +35,4 @@ Lista todos os arquivos e pastas do diretório atual. É preciso identificar se 
 
 - Ao final da execução do programa, serão calculados e recebidos os números de visualizações dos anúncios original e compartilhado e por fim, a quantidade máxima de visualizações total;
 
-- No arquivo CalculadoraTeste.java é possível executar o teste unitário da calculadora de visualizações.
+- No arquivo CalculadoraTeste.java, em 'src', é possível executar o teste unitário da calculadora de visualizações.
