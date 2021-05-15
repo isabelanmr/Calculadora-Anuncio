@@ -33,4 +33,6 @@ Lista todos os arquivos e pastas do diretório atual. É preciso identificar se 
 
 - Após compilação, para a execução do programa, informar o valor investido no anúncio em reais;
 
-- Ao final da execução do programa, serão calculados e recebidos os números de visualizações dos anúncios original e compartilhado e por fim, a quantidade máxima de visualizações total.
+- Ao final da execução do programa, serão calculados e recebidos os números de visualizações dos anúncios original e compartilhado e por fim, a quantidade máxima de visualizações total;
+
+- No arquivo CalculadoraTeste.java é possível executar o teste unitário da calculadora de visualizações.
